@@ -1,4 +1,4 @@
-# Bonjour, je suis Thomas Patout ! 👋
+# Bonjour, je suis Thomas ! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Data+Scientist;Spécialiste+Machine+Learning+%26+MLOps;Python+%7C+SQL+%7C+AWS+%7C+Spark;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
