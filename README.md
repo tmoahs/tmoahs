@@ -8,7 +8,6 @@
 
 - 🎓 Diplômé du parcours **Data Scientist** d'OpenClassrooms.
 - 🤖 Spécialisé en **Machine Learning**, **MLOps** (API, Docker) et **Big Data** (AWS, Spark).
-- 📈 Passionné par la transformation de données brutes en décisions stratégiques.
 - 🔭 Je suis toujours à la recherche de nouveaux défis pour construire des solutions IA performantes et scalables.
 
 ## 🛠️ Ma Stack Technique
