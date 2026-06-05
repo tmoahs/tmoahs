@@ -55,15 +55,15 @@ Voici 4 projets phares de mon parcours qui illustrent mes compétences de bout e
     <tr>
       <!-- Projet 7 -->
       <td width="50%" align="left">
-        <a href="https://github.com/tmoahs/P07-Scoring-Credit-API">
-          <img src="https://img.shields.io/badge/P7_--_Scoring_Crédit-007ACC?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <a href="https://github.com/tmoahs/Scoring-Credit-API">
+          <img src="https://img.shields.io/badge/Scoring_Crédit-007ACC?style=for-the-badge&logo=fastapi&logoColor=white" />
         </a><br>
         <small>API de scoring via FastAPI & Dashboard Streamlit.</small>
       </td>
       <!-- Projet 9 -->
       <td width="50%" align="left">
-        <a href="https://github.com/tmoahs/P09-Traitement-Big-Data">
-          <img src="https://img.shields.io/badge/P9_--_Pipeline_Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+        <a href="https://github.com/tmoahs/Traitement-Big-Data">
+          <img src="https://img.shields.io/badge/Pipeline_Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
         </a><br>
         <small>Pipeline de traitement d'images sur AWS (S3/EMR/Spark).</small>
       </td>
@@ -71,15 +71,15 @@ Voici 4 projets phares de mon parcours qui illustrent mes compétences de bout e
     <tr>
       <!-- Projet 5 -->
       <td width="50%" align="left">
-        <a href="https://github.com/tmoahs/P05-Segmentation-Clients-Ecommerce">
-          <img src="https://img.shields.io/badge/P5_--_Segmentation_Client-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <a href="https://github.com/tmoahs/Segmentation-Clients-Ecommerce">
+          <img src="https://img.shields.io/badge/Segmentation_Client-150458?style=for-the-badge&logo=pandas&logoColor=white" />
         </a><br>
         <small>Machine Learning non-supervisé (K-Means) sur 10M+ lignes.</small>
       </td>
       <!-- Projet 10 -->
       <td width="50%" align="left">
-        <a href="https://github.com/tmoahs/P10-Cadrage-Projet-IA">
-          <img src="https://img.shields.io/badge/P10_--_Cadrage_IA-black?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://github.com/tmoahs/Cadrage-Projet-IA">
+          <img src="https://img.shields.io/badge/Cadrage_IA-black?style=for-the-badge&logo=github&logoColor=white" />
         </a><br>
         <small>Planification complète et stratégie de déploiement d'une IA.</small>
       </td>
