@@ -88,6 +88,7 @@ Les notebooks seront publiés dans des dépôts dédiés au fur et à mesure.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-3%20%C3%A9tudes%20de%20cas-2b4a7a?style=for-the-badge&logo=githubpages&logoColor=white)](https://tmoahs.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Patout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-patout/)
 [![Email](https://img.shields.io/badge/Email-t.patout%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:t.patout@proton.me)
 
