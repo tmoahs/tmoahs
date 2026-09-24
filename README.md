@@ -6,7 +6,7 @@
 
 **Data Scientist · MLOps & Automatisation IA** · 📍 Paris · disponible immédiatement
 
-Je couvre tout le cycle de la donnée : analyse exploratoire, modélisation (ML supervisé et non supervisé, NLP, Computer Vision), déploiement et monitoring. **Deux de mes projets sont réellement en ligne**, pas seulement des notebooks.
+Je couvre tout le cycle de la donnée : analyse exploratoire, modélisation (ML supervisé et non supervisé, NLP, Computer Vision), déploiement et monitoring. **Deux de mes projets sont réellement en ligne.**
 
 - 🎯 Je recherche un **CDI à Paris** (Data Scientist / Data Analyst)
 - 🧪 Spécialités : **MLOps** (Docker, FastAPI, MLflow, CI/CD) · **Automatisation IA** (n8n, LLM APIs) · **Big Data** (AWS EMR, Spark)
