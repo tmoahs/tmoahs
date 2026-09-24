@@ -98,7 +98,7 @@ Les notebooks seront publiés dans des dépôts dédiés au fur et à mesure.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Patout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-patout/)
-[![Email](https://img.shields.io/badge/Email-t.patout%40pm.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:t.patout@pm.me)
+[![Email](https://img.shields.io/badge/Email-t.patout%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:t.patout@proton.me)
 
 </div>
 
