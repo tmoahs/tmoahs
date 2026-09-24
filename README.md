@@ -1,12 +1,12 @@
 # Bonjour, je suis Thomas ! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=560&lines=Data+Scientist+%7C+MLOps;Automatisation+IA+%7C+n8n+%2B+LLM;Python+%7C+SQL+%7C+AWS+%7C+Spark" alt="Data Scientist — MLOps & Automatisation IA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=560&lines=Data+Scientist+%7C+MLOps;Automatisation+IA+%7C+n8n+%2B+LLM;Python+%7C+SQL+%7C+AWS+%7C+Spark" alt="Data Scientist · MLOps & Automatisation IA" />
 </div>
 
-**Data Scientist — MLOps & Automatisation IA** · 📍 Paris · disponible immédiatement
+**Data Scientist · MLOps & Automatisation IA** · 📍 Paris · disponible immédiatement
 
-Je couvre tout le cycle de la donnée : analyse exploratoire, modélisation (ML supervisé et non supervisé, NLP, Computer Vision), déploiement et monitoring. **Deux de mes projets sont réellement en ligne** — pas seulement des notebooks.
+Je couvre tout le cycle de la donnée : analyse exploratoire, modélisation (ML supervisé et non supervisé, NLP, Computer Vision), déploiement et monitoring. **Deux de mes projets sont réellement en ligne**, pas seulement des notebooks.
 
 - 🎯 Je recherche un **CDI à Paris** (Data Scientist / Data Analyst)
 - 🧪 Spécialités : **MLOps** (Docker, FastAPI, MLflow, CI/CD) · **Automatisation IA** (n8n, LLM APIs) · **Big Data** (AWS EMR, Spark)
@@ -18,7 +18,7 @@ Je couvre tout le cycle de la donnée : analyse exploratoire, modélisation (ML 
 
 | Projet | Ce que ça démontre |
 |---|---|
-| **[Scoring Crédit — API, Monitoring & Dashboard](https://github.com/tmoahs/Scoring-Credit-API)** | MLOps de bout en bout : LGBM (AUC 0,79), FastAPI + Docker + CI/CD, dashboard Streamlit, MLflow, monitoring Evidently AI |
+| **[Scoring Crédit · API, Monitoring & Dashboard](https://github.com/tmoahs/Scoring-Credit-API)** | MLOps de bout en bout : LGBM (AUC 0,79), FastAPI + Docker + CI/CD, dashboard Streamlit, MLflow, monitoring Evidently AI |
 | **[AI Cultural Events Curator](https://github.com/tmoahs/Events-Curator)** | Automatisation IA : n8n + Ticketmaster API + Google Gemini + Gmail API, coût nul (free tiers) |
 | **[Pipeline Big Data AgriTech](https://github.com/tmoahs/Traitement-Big-Data)** | AWS EMR + PySpark : transfer learning MobileNetV2, PCA (1280 → 100), stockage Parquet |
 | **[Classification multimodale de produits](https://github.com/tmoahs/Classification-Produits-NLP-Vision)** | NLP + Vision : BERT + CNN/ResNet, accuracy 81,3 % |
@@ -27,7 +27,7 @@ Je couvre tout le cycle de la donnée : analyse exploratoire, modélisation (ML 
 
 ---
 
-## 🧪 En cours — Kaggle
+## 🧪 En cours : Kaggle
 
 Je consolide mes compétences en travaillant sur des exercices et compétitions Kaggle.
 Les notebooks seront publiés dans des dépôts dédiés au fur et à mesure.
@@ -95,5 +95,5 @@ Les notebooks seront publiés dans des dépôts dédiés au fur et à mesure.
 </div>
 
 <div align="center">
-  <sub>Ouvert aux opportunités en Data Science, MLOps et Automatisation IA — Paris ou remote.</sub>
+  <sub>Ouvert aux opportunités en Data Science, MLOps et Automatisation IA, à Paris ou en remote.</sub>
 </div>
