@@ -14,15 +14,6 @@ Je couvre tout le cycle de la donnée : analyse exploratoire, modélisation (ML 
 
 ---
 
-## 🔗 Démonstrations en ligne
-
-| Projet | Démo |
-|---|---|
-| API de scoring de crédit (FastAPI) | [scoring-api-thomas.onrender.com](https://scoring-api-thomas.onrender.com) |
-| Dashboard de scoring (Streamlit) | [scoring-api-p8.streamlit.app](https://scoring-api-p8.streamlit.app/) |
-
----
-
 ## 🌟 Projets phares
 
 | Projet | Ce que ça démontre |
